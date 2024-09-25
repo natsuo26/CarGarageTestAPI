@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5qkbk5AYhclWT4SliF3OWuJgEnQQf7DgpUAMFZumoWo=",
+  "Source": "CarGarageAPI",
+  "BasePath": "_content/CarGarageAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
